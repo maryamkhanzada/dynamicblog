@@ -108,7 +108,7 @@ export default function Mega () {
             title: "Celebrating the Beauty of Tharparkar is Desert Villages",
             description: "Tharparkar is desert villages, nestled in the vast expanse of the Thar Desert in Sindh, Pakistan, are a unique blend of resilience, culture, and natural beauty. These villages are characterized by their traditional mud-thatched huts, known as chaunras which are designed to withstand the harsh desert climate. Despite the arid environment, the people of Tharparkar have cultivated a vibrant way of life, deeply rooted in their traditions and harmony with nature.",
             date: "2024-12-31",
-            imageUrl: "/images _15.jpg",
+            imageUrl: "/images_15.jpg",
         },
 
 
