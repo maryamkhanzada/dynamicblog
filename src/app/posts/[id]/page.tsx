@@ -11,7 +11,7 @@ const posts = [
             id: "1",
             title: "Embracing the Serene Beauty of Swat Valley",
             description: "Swat, often referred to as the switzerland of pakistan, is a breathtakingly beautiful valley located in the Khyber Pakhtunkhwa province of Pakistan.Nestled amidst the majestic Hindu Kush mountains, Swat is renowned for its stunning landscapes, rich history, and vibrant culture. It is a top destination for both domestic and international tourists seeking natural beauty and serenity.",
-            image: "/image_1.jpg",
+            image: "/image1.jpg",
             
             
         },
