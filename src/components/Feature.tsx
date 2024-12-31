@@ -6,11 +6,11 @@ export default function Feature () {
             <section className="py-8 bg-neutral-100 mb-40">
                 <h2 className="text-center text-3xl font-bold md:text-5xl lg:text-left animate-fade-in-up transition-all duration-500
                 ease-in-out transform hover:translate-y-[-5px] hover:text-black text-red-600">
-                Maryam Khan: Unveiling the Charm of Pakistan’s Villages
+                Maryam Khan: Unveiling the Charm of Pakistan is Villages
                 </h2>
 
                 <p className="text-center m-4 mt-4  text-sm text-black sm:text-base md:mb-12 lg:mb-16 animate-fade-in-up delay-100">
-                I’m Maryam Khan, and this blog is my way of celebrating the unparalleled beauty of Pakistan’s villages. These quaint and peaceful communities are the soul of our country, offering a glimpse into a way of life that is both simple and deeply enriching. From the vibrant fields that stretch to the horizon to the timeless traditions preserved by the locals, each village is a masterpiece of culture and nature. Through my words and insights, I hope to bring you closer to the essence of rural Pakistan, where beauty lies in every detail and every moment. 
+                I am Maryam Khan, and this blog is my way of celebrating the unparalleled beauty of Pakistan is villages. These quaint and peaceful communities are the soul of our country, offering a glimpse into a way of life that is both simple and deeply enriching. From the vibrant fields that stretch to the horizon to the timeless traditions preserved by the locals, each village is a masterpiece of culture and nature. Through my words and insights, I hope to bring you closer to the essence of rural Pakistan, where beauty lies in every detail and every moment. 
                 </p>
 
                 <div className="mx-auto max-w-7xl px-5">
@@ -41,7 +41,7 @@ export default function Feature () {
                 </div>
 
                 <p className="text-sm md:text-base text-black mb-6 px-4 animate-fade-in-down delay-100 mt-10">
-                Pakistan’s villages are the heart and soul of the country, offering a serene escape from the bustling city life. These villages are a testament to simplicity, natural beauty, and rich cultural heritage. Spread across lush green fields, rugged mountains, and vast deserts, each village has its unique charm.
+                Pakistan is villages are the heart and soul of the country, offering a serene escape from the bustling city life. These villages are a testament to simplicity, natural beauty, and rich cultural heritage. Spread across lush green fields, rugged mountains, and vast deserts, each village has its unique charm.
                 </p>
 
             </section>

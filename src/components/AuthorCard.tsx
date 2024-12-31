@@ -1,6 +1,7 @@
 
 import React from 'react'
 import Image from 'next/image'
+import Link from 'next/link'
 
 
 export default function AuthorCard () {
@@ -25,27 +26,27 @@ export default function AuthorCard () {
          Maryam is a passionate web developer with expertise in HTML, CSS, and TypeScript, currently exploring the Next.js framework. She is also an undergraduate student with a strong interest in IT, striving to balance her academic pursuits and her love for web development. Maryam is dedicated to continuous learning and growth in the field of technology.
          </p>
          <div className='mt-4 flex space-x-3'>
-            <a
+            <Link
             href='#'
             className='px-4 py-2 text-white bg-blue-600 rounded-md hover:bg-blue-700 transition duration-300'>
 
                Facebook
 
-            </a>
-            <a
+            </Link>
+            <Link
             href='#'
             className='px-4 py-2 text-white bg-blue-600 rounded-md hover:bg-blue-700 transition duration-300'>
 
                Linkedin
 
-            </a>
-            <a 
+            </Link>
+            <Link
             href='https://github.com/maryamkhanzada/milestone-1.git'
             className='px-4 py-2 text-white bg-blue-600 rounded-md hover:bg-blue-700 transition duration-300'>
 
                Github
 
-            </a>
+            </Link>
 
          </div>
         </div>

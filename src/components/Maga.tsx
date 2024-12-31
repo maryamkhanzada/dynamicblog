@@ -15,7 +15,7 @@ export default function Mega () {
         {
             id: "2",
             title: " Exploring the Scenic Splendor of Gilgit",
-            description: "Gilgit, often referred to as the crown jewel of northern Pakistan, is a paradise of breathtaking beauty and cultural heritage. Nestled amidst the towering peaks of the Karakoram and Himalayan ranges, it serves as a gateway to some of the world’s most iconic landscapes.",
+            description: "Gilgit, often referred to as the crown jewel of northern Pakistan, is a paradise of breathtaking beauty and cultural heritage. Nestled amidst the towering peaks of the Karakoram and Himalayan ranges, it serves as a gateway to some of the world is most iconic landscapes.",
             date: "2024-12-26",
             imageUrl: "/image_2.jpg ",
         },
@@ -43,9 +43,9 @@ export default function Mega () {
         {
             id: "6",
             title: "Discovering the Peaceful Charm of Hunza Village",
-            description: "Hunza, a mesmerizing valley in the Gilgit-Baltistan region of northern Pakistan, is a place where nature’s beauty reaches its pinnacle. Surrounded by towering peaks like Rakaposhi and Ultar Sar, and dotted with emerald-green terraced fields, Hunza offers one of the most stunning landscapes in the world.",
+            description: "Hunza, a mesmerizing valley in the Gilgit-Baltistan region of northern Pakistan, is a place where nature is beauty reaches its pinnacle. Surrounded by towering peaks like Rakaposhi and Ultar Sar, and dotted with emerald-green terraced fields, Hunza offers one of the most stunning landscapes in the world.",
             date: "2024-12-29",
-            imageUrl: "/image_6.webp ",
+            imageUrl: "/image_ 6.webp",
         },
         {
             id:"7",
@@ -59,7 +59,7 @@ export default function Mega () {
             title: "Embracing the Timeless Beauty of Gojal Valley",
             description: "Gojal, a breathtakingly beautiful region in the uppermost part of the Hunza Valley, is a hidden gem in the Gilgit-Baltistan region of northern Pakistan. Known for its rugged terrain, towering mountains, and pristine rivers, Gojal offers an unparalleled landscape that captivates all who visit. The region is home to remote villages nestled amidst snow-capped peaks and green valleys, where traditional life continues in harmony with nature.",
             date: "2024-12-30",
-            imageUrl: "/image_8.jpg ",
+            imageUrl: "/image_ 8.jpg",
         },
         {
             id:"9",
@@ -70,7 +70,7 @@ export default function Mega () {
         },
         {
             id: "10",
-            title: "Experiencing the Serenity of Skardu’s Remote Villages",
+            title: "Experiencing the Serenity of Skardu is Remote Villages",
             description: "Skardu, the gateway to some of the highest peaks in the world, is a breathtaking valley located in the Gilgit-Baltistan region of northern Pakistan. Surrounded by towering mountains such as K2 and Broad Peak, Skardu is a paradise for adventurers, trekkers, and nature lovers. The region is renowned for its stunning landscapes, including pristine lakes like Shangrila Resort, the mesmerizing Satpara Lake, and the serene Sheosar Lake, all set against the backdrop of snow-capped peaks and lush green valleys. ",
             date: "2024-12-31",
             imageUrl: "/images_10.jpg ",
@@ -91,31 +91,31 @@ export default function Mega () {
         },
         {
             id: "13",
-            title: "Immersing in the Simplicity of Balakot’s Villages",
+            title: "Immersing in the Simplicity of Balakot is Villages",
             description: "Balakot, a picturesque town in Khyber Pakhtunkhwa, Pakistan, is often called the Gateway to the Kaghan Valley. Surrounded by lush green mountains, flowing rivers, and serene landscapes, Balakot is a haven for nature lovers and travelers seeking tranquility. The town holds historical significance as a center of resilience and strength, particularly after the devastating earthquake of 2005, which it has since rebuilt with remarkable spirit. ",
             date: "2024-12-31",
             imageUrl: "/images_13.jpeg",
         },
         {
             id: "14",
-            title: "Walking Through the History of Thatta’s Villages",
-            description: "Thatta’s villages, located in the heart of Sindh, are a reflection of rural life steeped in tradition and simplicity. Surrounded by vast plains and the shimmering waters of Keenjhar Lake, these villages offer a peaceful retreat into nature, where time seems to slow down. The people of Thatta’s villages are known for their warm hospitality, living in close-knit communities where family and culture play an essential role.",
+            title: "Walking Through the History of Thatta is Villages",
+            description: "Thatta is villages, located in the heart of Sindh, are a reflection of rural life steeped in tradition and simplicity. Surrounded by vast plains and the shimmering waters of Keenjhar Lake, these villages offer a peaceful retreat into nature, where time seems to slow down. The people of Thatta’s villages are known for their warm hospitality, living in close-knit communities where family and culture play an essential role.",
             date: "2024-12-31",
             imageUrl: "/images_14.jpg ",
         },
         {
             id: "15",
-            title: "Celebrating the Beauty of Tharparkar’s Desert Villages",
-            description: "Tharparkar’s desert villages, nestled in the vast expanse of the Thar Desert in Sindh, Pakistan, are a unique blend of resilience, culture, and natural beauty. These villages are characterized by their traditional mud-thatched huts, known as chaunras which are designed to withstand the harsh desert climate. Despite the arid environment, the people of Tharparkar have cultivated a vibrant way of life, deeply rooted in their traditions and harmony with nature.",
+            title: "Celebrating the Beauty of Tharparkar is Desert Villages",
+            description: "Tharparkar is desert villages, nestled in the vast expanse of the Thar Desert in Sindh, Pakistan, are a unique blend of resilience, culture, and natural beauty. These villages are characterized by their traditional mud-thatched huts, known as chaunras which are designed to withstand the harsh desert climate. Despite the arid environment, the people of Tharparkar have cultivated a vibrant way of life, deeply rooted in their traditions and harmony with nature.",
             date: "2024-12-31",
-            imageUrl: "/images_15.jpg ",
+            imageUrl: "/images _15.jpg",
         },
 
 
     ];
     return(
         <div className='my-8'>
-            <h1 className="text-3xl font-bold text-center my-8 text-red-600 animate-color-change">Exploring The World's Most Beautiful Villages</h1>
+            <h1 className="text-3xl font-bold text-center my-8 text-red-600 animate-color-change">Exploring The World  Most Beautiful Villages</h1>
 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
     {posts.map((post,index) =>(
         <div className="fade-in " key={post.id}>
