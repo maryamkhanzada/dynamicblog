@@ -10,21 +10,21 @@ export default function Mega () {
             title: "Embracing the Serene Beauty of Swat Valley",
             description: "Swat, often referred to as the switzerland of pakistan, is a breathtakingly beautiful valley located in the Khyber Pakhtunkhwa province of Pakistan.Nestled amidst the majestic Hindu Kush mountains, Swat is renowned for its stunning landscapes, rich history, and vibrant culture. It is a top destination for both domestic and international tourists seeking natural beauty and serenity. ",
             date: "2024-12-25",
-            imageUrl: "/image1.jpg ",
+            imageUrl: "/image1.jpg",
         },
         {
             id: "2",
             title: " Exploring the Scenic Splendor of Gilgit",
             description: "Gilgit, often referred to as the crown jewel of northern Pakistan, is a paradise of breathtaking beauty and cultural heritage. Nestled amidst the towering peaks of the Karakoram and Himalayan ranges, it serves as a gateway to some of the world is most iconic landscapes.",
             date: "2024-12-26",
-            imageUrl: "/image_2.jpg ",
+            imageUrl: "/image_2.jpg",
         },
         {
             id: "3",
             title: "Unveiling the Paradise of Kashmir",
             description: "Kashmir, often called paradise on earth, is a region of unparalleled beauty that captivates the heart and soul. Nestled in the northern part of Pakistan, its lush green valleys, crystal-clear lakes, and majestic snow-capped mountains create a breathtaking landscape that feels like a dream. The villages of Kashmir, with their traditional wooden houses and serene surroundings, offer a peaceful retreat from the chaos of modern life.",
             date: "2024-12-27",
-            imageUrl: "/image_3.avif ",
+            imageUrl: "/image_3.avif",
         },
         {
             id: "4",
@@ -38,7 +38,7 @@ export default function Mega () {
             title: "Experiencing the Timeless Charm of Kaghan",
             description: "Kaghan, located in the mesmerizing Kaghan Valley of northern Pakistan, is a breathtaking destination that captures the essence of nature's beauty. Surrounded by towering peaks, lush green valleys, and crystal-clear rivers, Kaghan is a paradise for those seeking tranquility and adventure. The region is renowned for its stunning landscapes, with lush meadows, tranquil lakes, and vibrant forests that offer a picturesque backdrop to every corner. ",
             date: "2024-12-29",
-            imageUrl: "/image_5.jpg ",
+            imageUrl: "/image_5.jpg",
         },
         {
             id: "6",
@@ -52,7 +52,7 @@ export default function Mega () {
             title: "Exploring the Vibrant Culture of Kalash Valley",
             description: "Kalash, a stunning and culturally rich valley nestled in the Chitral District of Khyber Pakhtunkhwa, Pakistan, is home to the indigenous Kalash people, known for their unique traditions and vibrant culture. Surrounded by towering peaks and lush forests, the valley exudes a mystical charm that has fascinated visitors for centuries. The Kalash people, with their distinct customs, colorful clothing, and ancient festivals, offer a window into a way of life that has remained largely untouched by time. ",
             date: "2024-12-29",
-            imageUrl: "/images_7.jpg ",
+            imageUrl: "/images_7.jpg",
         },
         {
             id: "8",
@@ -66,14 +66,14 @@ export default function Mega () {
             title: "Unveiling the Hidden Gems of Passu Village",
             description: "Passu, a picturesque village located in the Gojal region of the Hunza Valley, is one of the most stunning destinations in northern Pakistan. Surrounded by majestic snow-capped peaks, including the iconic Passu Cones, this small village offers a breathtaking panoramic view of the Karakoram Mountain Range. The rugged, dramatic landscapes of Passu, with its lush green fields, winding rivers, and towering cliffs, create an atmosphere of tranquility and awe. ",
             date: "2024-12-30",
-            imageUrl: "/images_9.jpg ",
+            imageUrl: "/images_9.jpg",
         },
         {
             id: "10",
             title: "Experiencing the Serenity of Skardu is Remote Villages",
             description: "Skardu, the gateway to some of the highest peaks in the world, is a breathtaking valley located in the Gilgit-Baltistan region of northern Pakistan. Surrounded by towering mountains such as K2 and Broad Peak, Skardu is a paradise for adventurers, trekkers, and nature lovers. The region is renowned for its stunning landscapes, including pristine lakes like Shangrila Resort, the mesmerizing Satpara Lake, and the serene Sheosar Lake, all set against the backdrop of snow-capped peaks and lush green valleys. ",
             date: "2024-12-31",
-            imageUrl: "/images_10.jpg ",
+            imageUrl: "/images_10.jpg",
         },
         {
             id: "11",
@@ -101,7 +101,7 @@ export default function Mega () {
             title: "Walking Through the History of Thatta is Villages",
             description: "Thatta is villages, located in the heart of Sindh, are a reflection of rural life steeped in tradition and simplicity. Surrounded by vast plains and the shimmering waters of Keenjhar Lake, these villages offer a peaceful retreat into nature, where time seems to slow down. The people of Thatta’s villages are known for their warm hospitality, living in close-knit communities where family and culture play an essential role.",
             date: "2024-12-31",
-            imageUrl: "/images_14.jpg ",
+            imageUrl: "/images_14.jpg",
         },
         {
             id: "15",
